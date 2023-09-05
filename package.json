@@ -1,0 +1,35 @@
+{
+  "version": "1.0.1",
+  "description": "A string similarity comparison tool, which is the front-end implementation version of Java string similarity. To maintain consistency with the string similarity algorithm in Java string similarity。",
+  "name": "@thecrookedman/string-similarity",
+  "main": "./lib/index.js",
+  "keywords": [
+    "string",
+    "similarity"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheCrookedMan/string-similarity.git"
+  },
+  "author": {
+    "name": "wcy",
+    "email": "thecrookedman@163.com",
+    "url": "dipp.cc"
+  },
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "build:dev": "webpack --mode=development",
+    "build:prod": "webpack --mode=production --node-env=production",
+    "watch": "webpack --watch",
+    "serve": "webpack serve"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.3",
+    "ts-loader": "^9.4.4",
+    "typescript": "^5.2.2",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
+}
