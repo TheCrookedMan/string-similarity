@@ -104,6 +104,6 @@ export default class JaroWinkler {
       ++prefix;
     }
 
-    return [matches,transpositions/2,prefix,max.length];
+    return [matches,Math.floor(transpositions/2),prefix,max.length];
   }
 }
