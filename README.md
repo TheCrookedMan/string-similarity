@@ -2,6 +2,11 @@
 
 A string similarity comparison tool, which is the front-end implementation version of Java string similarity. To maintain consistency with the string similarity algorithm in Java string similarity。
 
+### install
+```node
+npm i @thecrookedman/string-similarity --save
+```
+
 ### example
 
 ```js

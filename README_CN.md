@@ -2,6 +2,11 @@
 
 字符串相似度比较工具，为了与 [java-string-similarity](https://github.com/tdebatty/java-string-similarity/blob/master/README.md) 所用算法保持一致。实现前端和后端算法统一，得出同样的比较结果。
 
+### 使用
+```node
+npm i @thecrookedman/string-similarity --save
+```
+
 ### 示例
 
 ```js
