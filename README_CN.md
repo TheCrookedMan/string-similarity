@@ -1,8 +1,8 @@
 # string-similarity
 
-A string similarity comparison tool, which is the front-end implementation version of Java string similarity. To maintain consistency with the string similarity algorithm in Java string similarity。
+字符串相似度比较工具，为了与 [java-string-similarity](https://github.com/tdebatty/java-string-similarity/blob/master/README.md) 所用算法保持一致。实现前端和后端算法统一，得出同样的比较结果。
 
-### example
+### 示例
 
 ```js
 import {JaroWinkler,Cosine,Damerau,Jaccard,Levenshtein,LongestCommonSubsequence,MetricLCS,NGram,NormalizedLevenshtein,OptimalStringAlignment,QGram,RatcliffObershelp,SorensenDice,WeightedLevenshtein} from '@thecrookedman/string-similarity';
