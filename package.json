@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2-0",
   "description": "A string similarity comparison tool, which is the front-end implementation version of Java string similarity. To maintain consistency with the string similarity algorithm in Java string similarity。",
   "name": "@thecrookedman/string-similarity",
   "main": "./lib/index.js",
