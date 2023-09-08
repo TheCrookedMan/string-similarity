@@ -1,6 +1,6 @@
 # string-similarity
 
-A string similarity comparison tool, which is the front-end implementation version of Java string similarity. To maintain consistency with the string similarity algorithm in Java string similarity。
+A string similarity comparison tool, which is the front-end implementation version of Java string similarity. To maintain consistency with the string similarity algorithm in [java-string-similarity](https://github.com/tdebatty/java-string-similarity/blob/master/README.md)。
 
 ### install
 ```node
